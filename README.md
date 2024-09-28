@@ -1,5 +1,13 @@
 <!-- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p> -->
-<p align="center"><a href="#" target="_blank"><img src="screenshoot/register.png" alt="Laravel Logo"></a></p>
+## About My Website
+Website ini dirancang sebagai platform pencarian kerja, di mana para pencari kerja dapat menemukan peluang yang sesuai dengan keahlian mereka, sementara perusahaan dapat mencari kandidat yang memenuhi kriteria lowongan yang tersedia.
+
+- [Halaman Register]
+<p align="center"><a href="#" target="_blank"><img src="screenshoot/register.png" alt="Halaman Register"></a></p>
+
+- [Halaman Login]
+<p align="center"><a href="#" target="_blank"><img src="screenshoot/login.png" alt="Halaman Login"></a></p>
+
 
 <!-- <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -8,7 +16,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p> -->
 
-## About Laravel
+<!-- ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
@@ -64,4 +72,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
